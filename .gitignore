@@ -1,0 +1,11 @@
+# Bỏ qua môi trường ảo của Python
+.venv/
+venv/
+ENV/
+
+# Bỏ qua các file cấu hình ẩn của IntelliJ IDEA
+.idea/
+
+# Bỏ qua các file rác sinh ra khi chạy Python
+__pycache__/
+*.pyc
